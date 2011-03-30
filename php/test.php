@@ -1,3 +1,3 @@
 <?php
 
-echo "Hej världen";
+echo "en php sida utan sluttagg";
