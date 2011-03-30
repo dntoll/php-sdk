@@ -1,3 +1,6 @@
- <?php
+ <?php //<- innan taggen ligger ett blanksteg
 
-echo "alla tecken utanför php-taggarna skickas till klienten";
+session_start();
+
+//efter taggen är en radbrytning
+?> 
