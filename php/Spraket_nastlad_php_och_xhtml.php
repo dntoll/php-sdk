@@ -1,8 +1,8 @@
 <html>
- <head><title>Hej världen</title></head>
+ <head><title>Hello World</title></head>
  <body>
   <?php 
-    echo "Här är det PHP-kod som gäller";
+    echo "HÃ¤r Ã¤r det PHP-kod som gÃ¤ller";
   ?>
  </body>
 </html>
