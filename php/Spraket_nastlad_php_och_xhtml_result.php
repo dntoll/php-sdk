@@ -1,6 +1,6 @@
 <html>
- <head><title>Hej v‰rlden</title></head>
+ <head><title>Hej v√§rlden</title></head>
  <body>
-  H‰r ‰r det PHP-kod som g‰ller
+  H√§r √§r det PHP-kod som g√§ller
  </body>
 </html>
