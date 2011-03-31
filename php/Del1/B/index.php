@@ -1,8 +1,13 @@
 <html>
-  <head><title>Hello World</title></head>
+  <head>
+    <title>Hej Världen</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  </head>
   <body>
     <?php
-        echo "Hello World";
+      echo "Hej Världen";
     ?>
+    
   </body>
+  
 </html>
